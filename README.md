@@ -2,5 +2,5 @@
 - install python3  
 - pip3 install scrapy  
 
-##To Run  
+## To Run  
 - python3 run.py
